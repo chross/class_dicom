@@ -1,0 +1,18 @@
+{
+    "name": "chross/class_dicom.php",
+    "description": "PHP DICOM File Handler Class by Dean Vaughan",
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dean Vaughan"
+        },
+		{
+            "name": "Christian Wolf",
+            "email": "mail@chross.de"
+        }
+    ],
+    "minimum-stability": "stable"
+}
