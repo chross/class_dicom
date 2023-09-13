@@ -1,5 +1,5 @@
 {
-    "name": "chross/class_dicom.php",
+    "name": "chross/class_dicom",
     "description": "PHP DICOM File Handler Class by Dean Vaughan",
     "type": "library",
     "require": {
